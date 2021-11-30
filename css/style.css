@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* Rubén Torres */
+
+/*** IMPORTACIONES ***/
+@import url('fuentes.css');
+
+/*** ASIGNACIONES GLOBALES ***/
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Arial';
+}
+
+body{
+    font-size: 16px;
+}

@@ -1,0 +1,9 @@
+/***** FUENTES *****/
+/*** LOCALES ***/
+@font-face {
+    font-family: '';
+    src: url(../fonts/);
+}
+
+/*** EXTERNAS ***/
+@import url();
